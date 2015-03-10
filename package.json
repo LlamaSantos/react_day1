@@ -1,0 +1,20 @@
+{
+  "name": "mini1-todolist",
+  "version": "1.0.0",
+  "description": "Mini Project 1: Todo List ============",
+  "dependencies": {
+    "babel": "^4.7.4",
+    "jsx-loader": "^0.12.2",
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "babel-core": "^4.7.4",
+    "babel-loader": "^4.1.0",
+    "webpack": "^1.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
